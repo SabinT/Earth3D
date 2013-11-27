@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2010 (http://www.altova.com) by sonofrage (MiZE) -->
+<settings>
+	<scene>
+		<background file="back.jpg" autofit="true" />
+		<camera zoom="10" min="5" />
+		<globe x="0" y="0" centered="true" initialspin="0.15" segments="40"/>
+		<navigation newtab="false" />
+	</scene>
+	<hotspots>
+		<hotspot>
+			<name>North America</name>
+			<file>north_america.jpg</file>
+			<x>0</x>
+			<y>0</y>
+			<z>0</z>
+			<link>http://www.google.com/search?q=north%20america</link>
+		</hotspot>
+		<hotspot>
+			<name>South America</name>
+			<file>south_america.jpg</file>
+			<x>320</x>
+			<y>232</y>
+			<z>0</z>
+			<link>http://www.google.com/search?q=south%20america</link>
+		</hotspot>
+		<hotspot>
+			<name>Africa</name>
+			<file>africa.jpg</file>
+			<x>542</x>
+			<y>169</y>
+			<z>0</z>
+			<link>http://www.google.com/search?q=africa</link>
+		</hotspot>
+		<hotspot>
+			<name>Europe</name>
+			<file>europe.jpg</file>
+			<x>514</x>
+			<y>36</y>
+			<z>0</z>
+			<link>http://www.google.com/search?q=europe</link>
+		</hotspot>
+		<hotspot>
+			<name>Asia</name>
+			<file>asia.jpg</file>
+			<x>681</x>
+			<y>34</y>
+			<z>0</z>
+			<link>http://www.google.com/search?q=asia</link>
+		</hotspot>
+		<hotspot>
+			<name>Australia</name>
+			<file>australia.jpg</file>
+			<x>971</x>
+			<y>305</y>
+			<z>0</z>
+			<link>http://www.google.com/search?q=australia</link>
+		</hotspot>
+		<hotspot>
+			<name>antarctica</name>
+			<file>antarctica.jpg</file>
+			<x>0</x>
+			<y>500</y>
+			<z>0</z>
+			<link>http://www.google.com/search?q=antarctica</link>
+		</hotspot>
+		<hotspot>
+			<name>Pacific Ocean</name>
+			<file>pacific_ocean.jpg</file>
+			<x>0</x>
+			<y>0</y>
+			<z>0</z>
+			<link>http://www.google.com.np/search?q=pacific%ocean</link>
+		</hotspot>
+		<hotspot>
+			<name>Atlantic Ocean</name>
+			<file>atlantic_ocean.jpg</file>
+			<x>305</x>
+			<y>15</y>
+			<z>0</z>
+			<link>http://www.google.com.np/search?q=atlantic%ocean</link>
+		</hotspot>
+		<hotspot>
+			<name>Indian Ocean</name>
+			<file>indian_ocean.jpg</file>
+			<x>649</x>
+			<y>184</y>
+			<z>0</z>
+			<link>http://www.google.com.np/search?q=indain%ocean</link>
+		</hotspot>
+		<hotspot>
+			<name>Arctic Ocean</name>
+			<file>arctic_ocean.jpg</file>
+			<x>0</x>
+			<y>0</y>
+			<z>0</z>
+			<link>http://www.google.com.np/search?q=arctic%ocean</link>
+		</hotspot>
+	</hotspots>
+</settings>

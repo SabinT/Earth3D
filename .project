@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<projectDescription>
+	<name>EarthAction</name>
+	<comment/>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.adobe.flexbuilder.project.flexbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.adobe.flexbuilder.project.actionscriptnature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>[source path] away3dlite_1_0_0</name>
+			<type>2</type>
+			<location>D:/DESIGN/away3D/away3d_lite/away3dlite_1_0_0</location>
+		</link>
+	</linkedResources>
+</projectDescription>
+
